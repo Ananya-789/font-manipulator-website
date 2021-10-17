@@ -1,0 +1,125 @@
+body {
+    background:palevioletred;
+}
+
+.class{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 27px;
+    color: beige;
+    box-shadow: 9px 9px pink;
+}
+
+.h2{
+    background-color: black;
+    text-align: center;
+    padding:30px;
+    box-shadow: 10px 10px paleturquoise;
+    border-radius: 30px;
+    width: 95%;
+}
+
+.bold1{
+    font-size: 21px;
+    color: plum;
+}
+.bold{
+    font-size: 18px;
+    color: thistle;
+
+}
+
+.fonts{
+    color: #ADEFD1FF;
+    font-size: 15px;
+}
+
+#note1{
+    font-size: 15px;
+    color: seashell;
+}
+
+#highlight{
+    color: slateblue;
+    background-color: yellow;
+}
+
+.nav_button{
+    background: black;
+    color: snow;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 8px;
+    border: 2px solid beige;
+    transition-duration: 1s;
+    box-shadow: 2px 2px gray;
+}
+
+
+#gotopg2{
+    background: snow;
+    color:black;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 2px 2px gray;
+}
+
+
+#copyright_footer_1{
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    padding: 10px;
+    bottom: 0px;
+    background-color: snow;
+    color:gray;
+    position: fixed;
+
+}
+
+#body1{
+    background-image: url("doodle_for_body.jpg");
+
+}
+
+.class1{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 27px;
+    color: oldlace;
+    box-shadow: 5px 5px turquoise;
+}
+.inst{
+    font-size: 15px;
+    color: royalblue;
+}
+
+#text_change{
+    font-size: 18px;
+    color: seashell;
+}
+
+#copyright_footer_2{
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    padding: 10px;
+    bottom: 0px;
+    background-color:gray;
+    color:whitesmoke;
+    position: fixed;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 30px;
+    box-shadow: 3px 3px grey;
+    background-color: plum;
+}
+
+
+
+
+
